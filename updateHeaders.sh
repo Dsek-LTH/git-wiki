@@ -12,7 +12,7 @@ if [ $relativePath == "./index.md" ];
     then 
         newName=$repoName
     else 
-        tmp=${relativePath#./}
+        tmp=${relativePath#./} 
         newName=${tmp%.*}
 fi
 
