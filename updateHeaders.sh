@@ -7,6 +7,7 @@ repoName=${shortGitUrl##*/}
 editLink="${shortGitUrl}/edit/master/${relativePath}"
 
 newName=""
+echo $relativePath
 
 if [ $relativePath == "./index.md" ];
     then 
