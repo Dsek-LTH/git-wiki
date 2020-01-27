@@ -1,7 +1,7 @@
 #  [✏️](/edit/master/./index.md)
 
 ## Guide Hur man gör ett fint wiki-testamente:
-    * Forka detta repo
+    * Forka [detta repo](https://github.com/Dsek-LTH/git-wiki.git)
     * Lägg till mappar, markdown filer som till exempel [denna](testmapp/testfil.md)
     * Kör ./updateHeaders.sh scriptet
     * Commita och pusha!
